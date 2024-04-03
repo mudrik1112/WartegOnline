@@ -8,5 +8,6 @@
 
 # How to get the Apk:
 # -Go to Terminal
+# -Type 'cd warteg_online'
 # -Type 'flutter build apk --release'
       
