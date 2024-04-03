@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "warteg_online" "\0"
+            VALUE "FileDescription", "loma1" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "warteg_online" "\0"
+            VALUE "InternalName", "loma1" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "warteg_online.exe" "\0"
-            VALUE "ProductName", "warteg_online" "\0"
+            VALUE "OriginalFilename", "loma1.exe" "\0"
+            VALUE "ProductName", "loma1" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040800448236",
+    "project_id": "pizza-del-5f26c",
+    "storage_bucket": "pizza-del-5f26c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040800448236:android:2961f10a8414ffde5aafc9",
+        "android_client_info": {
+          "package_name": "com.example.loma1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASU0kFEXPNo0crbod8S5y88eCswmaHUj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
