@@ -1,6 +1,7 @@
-# Warteg Online Aplikasi pesan makanan warteg dari device
+# Warteg Online App
 
  How to install :
+ 
  -Download Code
  
  -Open in Visual Studio
